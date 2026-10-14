@@ -13,3 +13,7 @@ venv/
 Thumbs.db
 .vscode/
 .idea/
+
+# Course dataset (not for redistribution)
+data/
+*.csv

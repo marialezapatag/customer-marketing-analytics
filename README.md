@@ -24,9 +24,10 @@ The analysis answers five questions:
 
 - Most posts are **Informative** (68.5%), followed by Promotional (24.0%) and Entertaining (7.5%).
 - **FitPulse** is the most informative brand (72.5% of its posts), focused on educational fitness content.
-- **Sentiment and emoji use amplify each other**: the sentiment × emoji count interaction is the most consistent engagement effect across brands.
+- **More positive posts and more emojis both drive engagement**: +1 SD in sentiment means about +33% likes and +39% comments; +1 SD in emoji count about +15% likes and +22% comments. Both effects are significant for every brand.
+- **Topic barely matters**: entertaining and promotional posts perform like informative ones, except promotional posts at TechNest.
 
-See the full report in [`Brand Social Sentiment & Emojis.pdf`](Brand%20Social%20Sentiment%20%26%20Emojis.pdf).
+Explore the [interactive dashboard](https://marialezapatag.github.io/dashboards/marketing.html) or see the full report in [`Brand Social Sentiment & Emojis.pdf`](Brand%20Social%20Sentiment%20%26%20Emojis.pdf).
 
 ## Repository Contents
 
